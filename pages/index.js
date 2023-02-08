@@ -1724,25 +1724,25 @@ const nextjsapp = () => {
                 <div className="col-lg-4 col-md-8 col-sm-12">
                   <div className="fl-container">
                     <div className="footer-left-logo">
-                      <img className="img-responsive" src="../Tripocio_Logo.webp" alt="Image" />
+                      <img className="img-responsive" src="./Tripocio_Logo.webp" alt="Image" />
                     </div>
                     <ul className="footer-list">
                       <h6>CONTACT US</h6>
                       <li className="footer-list-item">
                         <span>
-                          <img className="img-responsive" src="../footer-ico3.webp" alt="Image" />
+                          <img className="img-responsive" src="./footer-ico3.webp" alt="Image" />
                         </span>
                         info@tripocio.com
                       </li>
                       <li className="footer-list-item">
                         <span>
-                          <img className="img-responsive" src="../footer-ico2.webp" alt="Image" />
+                          <img className="img-responsive" src="./footer-ico2.webp" alt="Image" />
                         </span>
                         +917067409106,+916262277999
                       </li>
                       <li className="footer-list-item">
                         <span>
-                          <img className="img-responsive" src="../footer-ico1.webp" alt="Image" />
+                          <img className="img-responsive" src="./footer-ico1.webp" alt="Image" />
                         </span>
                         1206,Skye Earth Corporate park,Opp.Shalimar Township,AB Road,indore
                       </li>
@@ -1754,7 +1754,7 @@ const nextjsapp = () => {
                     <form>
                       <div className="form-input-wraper">
                         <div className="form-icon">
-                          <span><img className="img-fluid" src="../user_5@2x.webp" alt="Image" /></span>
+                          <span><img className="img-fluid" src="./user_5@2x.webp" alt="Image" /></span>
                         </div>
                         <div className="form-group">
                           <input type="text" className="form-control item" id="username" placeholder="Name" value={name}
@@ -1763,7 +1763,7 @@ const nextjsapp = () => {
                       </div>
                       <div className="form-input-wraper">
                         <div className="form-icon">
-                          <span><img className="img-fluid" src="../email_8@2x.webp" alt="Image" /></span>
+                          <span><img className="img-fluid" src="./email_8@2x.webp" alt="Image" /></span>
                         </div>
                         <div className="form-group">
                           <input type="email" className="form-control item" id="email" placeholder="Email" value={email}
@@ -1772,7 +1772,7 @@ const nextjsapp = () => {
                       </div>
                       <div className="form-input-wraper">
                         <div className="form-icon">
-                          <span><img className="img-fluid" src="../phone-call_1@2x.webp" alt="Image" /></span>
+                          <span><img className="img-fluid" src="./phone-call_1@2x.webp" alt="Image" /></span>
                         </div>
                         <div className="form-group">
                           <input type="number" className="form-control item" id="phone-number" placeholder="Contact Number" value={phoneNumber}
@@ -1781,7 +1781,7 @@ const nextjsapp = () => {
                       </div>
                       <div className="form-input-wraper">
                         <div className="form-icon">
-                          <span><img className="img-fluid" src="../city@2x.webp" alt="Image" /></span>
+                          <span><img className="img-fluid" src="./city@2x.webp" alt="Image" /></span>
                         </div>
                         <div className="form-group">
                           <input type="text" className="form-control item" id="city" placeholder="City" value={city}
@@ -1815,13 +1815,13 @@ const nextjsapp = () => {
                     <div className="social-media">
                       <div className="social-icons">
                         <div className="social-ico">
-                          <Link href="https://www.facebook.com/"><img className="img-fluid" src="../facebook.webp" alt="image" /></Link>
+                          <Link href="https://www.facebook.com/"><img className="img-fluid" src="./facebook.webp" alt="image" /></Link>
                         </div>
                         <div className="social-ico">
-                          <Link href="https://www.instagram.com/"><img className="img-fluid" src="../instagram (1).webp" alt="image" /></Link>
+                          <Link href="https://www.instagram.com/"><img className="img-fluid" src="./instagram (1).webp" alt="image" /></Link>
                         </div>
                         <div className="social-ico">
-                          <Link href="https://www.twitter.com/"><img className="img-fluid" src="../twitter (2).webp" alt="image" /></Link>
+                          <Link href="https://www.twitter.com/"><img className="img-fluid" src="./twitter (2).webp" alt="image" /></Link>
                         </div>
                       </div>
                     </div>
