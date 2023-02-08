@@ -7,6 +7,7 @@ import CountUp from "react-countup";
 import { useRouter } from 'next/router';
 import Popup from "reactjs-popup";
 import Link from 'next/link';
+import Image from 'next/image';
 
 
 
@@ -133,7 +134,7 @@ const nextjsapp = () => {
           <nav className="navbar navbar-expand-lg bg-none px-5">
             <a className="navbar-brand" href="#">
               <div className="logo-wraper">
-                <img className="img-fluid" src="../Tripocio_Logo.webp" alt="Image" />
+                <Image className="img-fluid" src="/Tripocio_Logo.webp" alt="Image" width="243" height="144" />
               </div>
             </a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
