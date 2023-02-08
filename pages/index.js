@@ -320,7 +320,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../email_8@2x.WEBP" alt="Image" /></span>
+                                                <span><Image className="img-fluid" src="/email_8@2x.WEBP" alt="Image" width="48" height="48" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="email" className="form-control item" id="email" placeholder="Email" value={email}
