@@ -244,7 +244,7 @@ const nextjsapp = () => {
                   <div className="package-card-wraper">
                     <div className="package-card">
                       <div className="package-card-img">
-                        <img src="../packagecard1.webp" className="img-fluid" alt="Image" />
+                        <Image src="/packagecard1.webp" className="img-fluid" alt="Image" width="1035" height="744" />
                         <div className="image-overlay">
                           <div className="overlay-inner">
                             <h3>Fascinating Kashmir</h3>
@@ -278,19 +278,19 @@ const nextjsapp = () => {
                           <li className="icon-wraper">
                             <div className="icon-box">
                               <div className="package-ico">
-                                <img className="img-fluid" src="../hotel.webp" alt="Image" />
+                                <Image className="img-fluid" src="/hotel.webp" alt="Image" width="512" height="512" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../transportation.webp" alt="Image" />
+                                <Image className="img-fluid" src="/transportation.webp" alt="Image" width="512" height="512" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../sightseeing.webp" alt="Image" />
+                                <Image className="img-fluid" src="/sightseeing.webp" alt="Image" width="512" height="512" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../meal.webp" alt="Image" />
+                                <Image className="img-fluid" src="/meal.webp" alt="Image" width="512" height="512" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../customer-support.webp" alt="Image" />
+                                <Image className="img-fluid" src="/customer-support.webp" alt="Image" width="512" height="512" />
                               </div>
                             </div>
                             <div className="jurneydetail">
@@ -311,7 +311,7 @@ const nextjsapp = () => {
                                           <form>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../user_5@2x.webp" alt="Image" /></span>
+                                                <span><Image className="img-fluid" src="/user_5@2x.webp" alt="Image" width="48" height="48" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="username" placeholder="Name" value={name}
